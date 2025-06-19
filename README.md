@@ -1,4 +1,4 @@
-# 🔐 Hill Cipher with Matrix Inversion (n×n) using Printable ASCII
+# 🔐 Hill Cipher with Matrix Inversion $(n×n)$ using Printable ASCII
 
 This project implements the **Hill Cipher encryption and decryption algorithm** using **customizable $n \times n$ matrices** (where $n$ ranges from 2 to 7) and supports **printable ASCII characters** under **modulo 97** arithmetic.
 
