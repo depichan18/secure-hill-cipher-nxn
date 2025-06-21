@@ -29,7 +29,7 @@ This project is ideal for students learning about:
 ## 📂 How to Use
 
 1.  **For Cloud Computing (Google Colab):**
-    Simply click on the `computation.ipynb` file within the repository (or navigate to it directly [here](https://github.com/depichan18/secure-hill-cipher-nxn/blob/main/computation.ipynb)) and run it directly in Google Colab.
+    Simply click on the `secure_hill_cipher_nxn.ipynb` file within the repository (or navigate to it directly [here](https://github.com/depichan18/secure-hill-cipher-nxn/blob/main/secure_hill_cipher_nxn.ipynb)) and run it directly in Google Colab.
 
 2.  **For Local Computer:**
    
