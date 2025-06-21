@@ -37,7 +37,6 @@ This project is ideal for students learning about:
         Open your terminal or command prompt and run the following command to get a copy of the project:
     
         ```bash
-    
          git clone [https://github.com/depichan18/secure-hill-cipher-nxn.git]
         ```
     
@@ -45,13 +44,12 @@ This project is ideal for students learning about:
         Navigate into the newly cloned directory:
     
         ```bash
-    
         cd secure-hill-cipher-nxn
         ```
     
         Then, execute the main Python script:
-        ```bash
     
+        ```bash
         python computation.py
         ```
 
