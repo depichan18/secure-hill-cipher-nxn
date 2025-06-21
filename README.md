@@ -24,12 +24,29 @@ This project is ideal for students learning about:
 - Modular arithmetic,
 - Classical ciphers and cryptographic foundations.
 
+---
+
 ## 📂 How to Use
 
-1. Clone this repository.
-2. Run the Python script (Colab or local environment).
-3. Choose matrix size (n), input mode (text or file), and key matrix.
-4. View the encrypted or decrypted result.
+1.  **For Cloud Computing (Google Colab):**
+    Simply click on the `.ipynb` file within the repository and run it directly in Google Colab.
+
+2.  **For Local Computer:**
+    a.  **Clone the Repository:** Open your terminal or command prompt and run the following command to get a copy of the project:
+        ```bash
+        git clone <repository_url>
+        ```
+        (Remember to replace `<repository_url>` with the actual URL of this GitHub repository.)
+    b.  **Run the Script:** Navigate into the newly cloned directory:
+        ```bash
+        cd <repository_name>
+        ```
+        Then, execute the main Python script:
+        ```bash
+        python computation.py
+        ```
+
+---
 
 ## 🛠 Technologies Used
 
