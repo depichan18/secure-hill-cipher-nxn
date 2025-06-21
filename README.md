@@ -29,17 +29,16 @@ This project is ideal for students learning about:
 ## 📂 How to Use
 
 1.  **For Cloud Computing (Google Colab):**
-    Simply click on the `.ipynb` file within the repository and run it directly in Google Colab.
+    Simply click on the `computation.ipynb` file within the repository (or navigate to it directly [here](https://github.com/depichan18/secure-hill-cipher-nxn/blob/main/computation.ipynb)) and run it directly in Google Colab.
 
 2.  **For Local Computer:**
     a.  **Clone the Repository:** Open your terminal or command prompt and run the following command to get a copy of the project:
         ```bash
-        git clone <repository_url>
+        git clone [https://github.com/depichan18/secure-hill-cipher-nxn.git](https://github.com/depichan18/secure-hill-cipher-nxn.git)
         ```
-        (Remember to replace `<repository_url>` with the actual URL of this GitHub repository.)
     b.  **Run the Script:** Navigate into the newly cloned directory:
         ```bash
-        cd <repository_name>
+        cd secure-hill-cipher-nxn
         ```
         Then, execute the main Python script:
         ```bash
